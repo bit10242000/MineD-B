@@ -1,5 +1,5 @@
-# MineDB-E
-Minerals Database &amp; Exchange 
+# MineD&E&S
+Minerals Database &amp; Exchange &amp; Shopping
 
 ## Database Features 
 ### Ordinary user interface 
