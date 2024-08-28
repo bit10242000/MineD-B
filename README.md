@@ -1,5 +1,5 @@
 # MineD&E&S
-Minerals Database &amp; Exchange &amp; Shopping
+Minerals Database &amp; Exchange &amp; Shopping. 
 
 ## Database Features 
 
