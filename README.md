@@ -43,6 +43,7 @@ Minerals Database &amp; Exchange &amp; Shopping
 
 ### Ordinary user interface 
 - [MRFs Material Customer Map and location services](./Shopping/mrfs-material-customer-map-and-location-services/README.md#ordinary-user)
+- [synchronization of item availability between customers' shopping carts and the inventory](./Shopping/synchronization-of-item-availability-between-customers-shopping-carts-and-the-inventory/README.md)
 - [MRFs Material GPS location Customer Delivery](./Shopping/mrfs-material-gps-location-customer-delivery/README.md#ordinary-user)
 - [MRFs Material Pickup point Customer Delivery](./Shopping/mrfs-material-pickup-point-customer-delivery/README.md#ordinary-user)
 - [MRFs Material Physical Address Customer Delivery](./Shopping/mrfs-material-physical-address-customer-delivery/README.md#ordinary-user)
