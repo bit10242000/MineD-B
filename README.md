@@ -5,7 +5,8 @@ Minerals Database &amp; Exchange
 ### Ordinary user interface 
 - [Material Recovery Facilities (MRFs) Map and location services](./Database/material-recovery-facilities-map-and-location-services/README.md#ordinary-user)
 - [GPS-tagged MRFs Material photographs](./Database/gps-tagged-mrfs-material-photographs/README.md#ordinary-user)
-- []()
+- [MRFs Material quantity](./Database/mrfs-material-quantity/README.md#ordinary-user)
+- [MRFs Material starting price](./Database/mrfs-material-starting-price/README.md#ordinary-user)
 - [Mining factories Map and location services](./Database/mining-factories-map-and-location-services/README.md#ordinary-user)
 - [Mining company](./Database/mining-company/README.md)
 - [Mineral-processing-factory](./Database/mineral-processing-factory/README.md)
@@ -24,5 +25,13 @@ Minerals Database &amp; Exchange
 - [Mrfs Map and location services](./Database/material-recovery-facilities-map-and-location-services/README.md#mfrs)
 - []()
 - [GPS-tagged MRFs Material photographs](./Database/gps-tagged-mrfs-material-photographs/README.md#mfrs)
-- 
+- [MRFs Material quantity](./Database/mrfs-material-quantity/README.md#mrfs)
+- [MRFs Material starting price](./Database/mrfs-material-starting-price/README.md#mrfs)
   
+## Exchange features 
+### Ordinary user interface 
+- [MRFs Material Customer Map and location services](./Database/mrfs-material-customer-map-and-location-services/README.md#ordinary-user)
+- []()
+
+
+
