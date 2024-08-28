@@ -3,8 +3,9 @@ Minerals Database &amp; Exchange
 
 ## Database Features 
 ### Ordinary user interface 
-- [Material Recovery Facilities Map and location services](./Database/material-recovery-facilities-map-and-location-services/README.md#ordinary-user)
-- []((
+- [Material Recovery Facilities (MRFs) Map and location services](./Database/material-recovery-facilities-map-and-location-services/README.md#ordinary-user)
+- [GPS-tagged MRFs Material photographs](./Database/gps-tagged-mrfs-material-photographs/README.md#ordinary-user)
+- []()
 - [Mining factories Map and location services](./Database/mining-factories-map-and-location-services/README.md#ordinary-user)
 - [Mining company](./Database/mining-company/README.md)
 - [Mineral-processing-factory](./Database/mineral-processing-factory/README.md)
@@ -19,5 +20,9 @@ Minerals Database &amp; Exchange
 - [Mineral quality and quantity processed by a mining factory](./Database/mineral-quality-and-quantity-processed-per-factory-in-the-last-2-hours/README.md)
 - [Total mineral held by a mining factory](./Database/total-mineral-held-by-a-mining-factory#mining-factory)
 - [GPS-tagged Mineral photographs](./Database/gps-tagged-mineral-photographs/README.md#mining-factory)
-
+### Material Recovery Facilities (MRFs) interface 
+- [Mrfs Map and location services](./Database/material-recovery-facilities-map-and-location-services/README.md#mfrs)
+- []()
+- [GPS-tagged MRFs Material photographs](./Database/gps-tagged-mrfs-material-photographs/README.md#mfrs)
+- 
   
