@@ -24,11 +24,6 @@
 - [GPS-tagged Mineral photographs](./Database/gps-tagged-mineral-photographs/README.md#mfrs)
 - [Mineral quantity](./Database/mrfs-material-quantity/README.md#mrfs)
 - [Mineral starting price](./Database/mrfs-material-starting-price/README.md#mrfs)
-  
-## Exchange features 
-
-### Ordinary user interface 
-- [Mineral Robotic Trading](./Exchange/mineral-robotic-trading)
 
 ## Shopping features 
 
