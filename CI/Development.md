@@ -41,6 +41,17 @@ Areas include consistent Branching Strategy, CI pipeline efficiency, CI pipeline
 - **User story 8**: As a developer, I want an enforcement of code formatting, linting, or other checks before code is committed to the repository using pre-commit hooks to prevent trivial errors from entering the CI pipeline.
 - **User story 9**: As a developer, I want CI configuration files (e.g.  `.github/workflows/`) stored in the version control system itself to ensure that the CI configuration is versioned alongside the code.
 - **User story 10**: As a developer, I want to ensure that the CI configuration can handle different environments (e.g., development, staging, production) by parameterizing environment-specific settings.
+- **User story 11**: As a developer, I want an enforcement of code reviews via pull requests to catch issues early, before code is merged into critical branches so that only high-quality code reaches the main branch.
+- **User story 12**: As a developer, I want to ensure the CI is configured to only build and test the parts of the codebase that were changed, rather than the entire project because of using a monorepo, to save time and resources.
+- **User story 13**: As a developer, I want parallelization in the CI pipeline, for example, run different test suites or build processes concurrently to speed up the process.
+- **User story 14**: As a developer, I want to ensure that build artifacts (e.g., compiled binaries) are stored securely and are versioned appropriately to ensure reproducibility and rollback.
+- **User story 15**: As a developer, I want to use a consistent naming convention for artifacts, including version numbers, commit hashes, or build numbers, to easily track and identify them.
+- **User story 16**: As a developer, I want to receive notifications (e.g., via Slack, email) to inform me about the status of builds, tests, and deployments and ensure that notifications are actionable and not overwhelming.
+- **User story 17**: As a developer, I want to see status badges in the repository’s README file to show the current status of the CI pipeline for key branches.
+- **User story 18**: As a developer, I want to be quickly notified when a build fails as this allows me to address issues promptly and maintain the flow of development.
+- 
+
+
 
 **Acceptance Criteria:**
 - [ ] Criterion 1: The 
