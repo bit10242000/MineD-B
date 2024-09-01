@@ -1,7 +1,7 @@
 # CI pipeline
 
 ### Project goals
-1. To develop integration with version control system.
+1. To integrate with version control system.
 2. To develop automated testing.
 3. To develop code quality checks.
 4. To develop build automation.
@@ -58,4 +58,10 @@ Areas include consistent Branching Strategy, CI pipeline efficiency, CI pipeline
 - **User story 25**: As a new developer, I want clear instructions for me on how to work with the CI and version control systems, including any required setup steps.
 
 **Acceptance Criteria:**
-- [ ] Criterion 1: The 
+- [ ] Criterion 1: The CI pipeline must automatically trigger a build whenever there is a new commit to the designated branches (e.g., `production`, `development`, `features` branches).
+- [ ] Criterion 2: Different branches (e.g., `production`, `development`, `features` branches) must trigger the appropriate CI pipeline workflows. For example, the main branch triggers a full build and deployment process, while feature branches trigger build and test pipelines.
+- [ ] Criterion 3: 
+
+
+
+
