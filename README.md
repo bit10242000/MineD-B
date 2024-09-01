@@ -10,3 +10,4 @@ An e-commerce platform integrating various aspects like trade finance and shoppi
 ### [Shopping](./E-commerce/Shopping/README.md)
 A shopping system that handles details of minerals from the database, customers, shopping carts, inventory management, payment processing, and order management. 
 
+** Project goals:**
