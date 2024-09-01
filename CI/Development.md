@@ -75,7 +75,17 @@ Areas include consistent Branching Strategy, CI pipeline efficiency, CI pipeline
 - [ ] **Criterion 8**: The CI pipeline must support parallel execution of builds and tests to reduce overall build time and handle multiple builds concurrently.
       **Test**: Run multiple build processes simultaneously and verify that they execute in parallel without significant delay.
 - [ ] **Criterion 9**: Access to the CI pipeline configuration and the ability to trigger builds must be restricted based on roles and permissions. Sensitive information (e.g., API keys, tokens) must be securely managed within the pipeline.
-      **Test**: 
+      **Test**: Attempt to trigger a build or modify CI configurations with an account that has restricted access, and verify that it’s blocked appropriately.
+- [ ] **Criterion 10**: The CI pipeline must maintain stable integration with the version control system, with no failed triggers or missed commits due to connectivity issues or misconfiguration.
+      **Test**: Monitor the CI pipeline over a period of time for stability, ensuring that all intended commits trigger the appropriate builds without failure.
+- [ ] **Criterion 11**: In the event of a failed deployment, the CI pipeline must support automated rollback to the last successful build or deployment.
+      **Test**: Simulate a failed deployment and verify that the system can automatically rollback to a stable state.
+- [ ] **Criterion 12**: The CI pipeline’s configuration, workflows, and any changes must be documented within the version control system, ensuring full traceability of all pipeline activities.
+      **Test**: Review the version control history to ensure all changes to the CI pipeline are logged and documented appropriately.
+- [ ] **Criterion 13**: The CI pipeline must enforce compliance with MineD-T coding standards, testing protocols, and other development best practices.
+      **Test**: Introduce a deviation from the coding standards or testing protocols into the codebase, and verify that the CI pipeline detects and reports the issue.
+- [ ] **Criterion 14**: The CI pipeline must collect and report key metrics (e.g., build success rate, test coverage, build time) to provide insights into the health and efficiency of the CI process.
+      **Test**: Review the CI pipeline’s reporting dashboard to ensure that all key metrics are accurately tracked and displayed.
 
 
 
