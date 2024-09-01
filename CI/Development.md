@@ -59,8 +59,23 @@ Areas include consistent Branching Strategy, CI pipeline efficiency, CI pipeline
 
 **Acceptance Criteria:**
 - [ ] Criterion 1: The CI pipeline must automatically trigger a build whenever there is a new commit to the designated branches (e.g., `production`, `development`, `features` branches).
-- [ ] Criterion 2: Different branches (e.g., `production`, `development`, `features` branches) must trigger the appropriate CI pipeline workflows. For example, the main branch triggers a full build and deployment process, while feature branches trigger build and test pipelines.
-- [ ] Criterion 3: 
+      Test: Commit a change to a monitored branch and verify that the CI pipeline starts automatically.
+- [ ] Criterion 2: Different branches (e.g., `production`, `development`, `features` branches) must trigger the appropriate CI pipeline workflows. For example, the `production` branch triggers a full build and deployment process, while `features` branches trigger build and test pipelines.
+      Test: Push commits to different branches and verify that the correct pipeline is executed.
+- [ ] Criterion 3: The CI pipeline must run automated tests on all pull requests before they are merged into critical branches.
+      Test: Create a pull request with both passing and failing tests, and verify that merging is blocked when tests fail.
+- [ ] Criterion 4: The CI pipeline must include static code analysis tools (e.g., ESLint, SonarQube) to enforce coding standards and detect code smells, vulnerabilities, and technical debt.
+      Test: Introduce a code quality issue into the codebase and verify that the CI pipeline fails and reports the issue.
+- [ ] Criterion 5: The CI pipeline must successfully generate build artifacts (e.g., binaries) and store them in an artifact repository with appropriate versioning.
+      Test: Run the CI pipeline and verify that artifacts are generated, correctly versioned, and stored in the specified repository.
+- [ ] Criterion 6: For designated branches (e.g., `production`), the CI pipeline must automatically deploy the build to the specified environment (e.g., staging, production) upon successful completion of tests and other checks.
+      Test: Trigger a build from the main branch and verify that the deployment occurs automatically upon a successful build.
+- [ ] Criterion 7: The CI pipeline must notify relevant stakeholders (e.g., developers, QA) of build failures, test failures, or other critical issues via configured channels (e.g., email, Slack).
+      Test: Force a build failure and verify that notifications are sent to the correct channels with detailed information on the failure.
+- [ ] Criterion 8: The CI pipeline must support parallel execution of builds and tests to reduce overall build time and handle multiple builds concurrently.
+      Test: Run multiple build processes simultaneously and verify that they execute in parallel without significant delay.
+- [ ] Criterion 9: Access to the CI pipeline configuration and the ability to trigger builds must be restricted based on roles and permissions. Sensitive information (e.g., API keys, tokens) must be securely managed within the pipeline.
+      Test: 
 
 
 
