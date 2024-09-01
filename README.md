@@ -19,5 +19,11 @@ A shopping system that handles details of minerals from the database, customers,
 1. [Features](#Features)
 2. [License](./LICENSE)
 
+## Features 
+1. CI/CD pipelines.
+2. Minerals Database.
+3. E-commerce website.
+
+   For detailed information about these features, visit [CI](./CI/Development.md), [Database](./Database/Development.md) and [E-commerce](./e-commerce/Development.md)
 See the License file [here](./LICENSE).
 
