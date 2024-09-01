@@ -11,7 +11,7 @@ An e-commerce platform integrating various aspects like trade finance and shoppi
 A shopping system that handles details of minerals from the database, customers, shopping carts, inventory management, payment processing, and order management. 
 
 ## Project goals
-1. To increase commerce of the minerals by 30%.
+1. To increase commerce in minerals by 30%.
 
 ## Table of contents 
 1. [Features](#Features)
