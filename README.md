@@ -24,6 +24,7 @@ A shopping system that handles details of minerals from the database, customers,
 2. Minerals Database.
 3. E-commerce website.
 
-   For detailed information about these features, visit [CI](./CI/Development.md), [Database](./Database/Development.md) and [E-commerce](./e-commerce/Development.md)
+   For detailed information about these features, visit [CI](./CI/Development.md), [Database](./Database/Development.md) and [E-commerce](./e-commerce/Development.md).
+   
 See the License file [here](./LICENSE).
 
