@@ -5,8 +5,8 @@ A minerals Database containing data like the mineral, mining company, processing
 
 ## [Trade]()
 
-### [E-commerce]()
-### [Trade Finance]()
+### [E-commerce](./Trade/e-commerce/README.md)
+### [Trade Finance](./Trade/trade-finance/README.md)
 ### [Shopping](./Trade/Shopping/README.md)
 A shopping system that handles details of minerals from the database, customers, shopping carts, inventory management, payment processing, and order management. 
 
