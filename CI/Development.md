@@ -53,7 +53,9 @@ Areas include consistent Branching Strategy, CI pipeline efficiency, CI pipeline
 - **User story 20**: As a developer, I want a record of who pushed what code and who approved which pull requests so as to ensure accountability and regulatory compliance.
 - **User story 21**: As a developer, I want static code analysis tools integrated in the CI pipeline to catch security vulnerabilities, code smells, and other issues early in the development process.
 - **User story 22**: As a developer, I want a regularly backed up version control system to ensure that code history and branches are safe in case of hardware failure or other issues.
-
+- **User story 23**: As a developer, I want to ensure that the CI configuration and related scripts are backed up.
+- **User story 24**: As a developer, I want a documented CI/CD process, including how the CI system is integrated with the VCS, how to trigger builds, and how to troubleshoot common issues.
+- **User story 25**: As a new developer, I want clear instructions for me on how to work with the CI and version control systems, including any required setup steps.
 
 **Acceptance Criteria:**
 - [ ] Criterion 1: The 
