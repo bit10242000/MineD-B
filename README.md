@@ -10,4 +10,13 @@ An e-commerce platform integrating various aspects like trade finance and shoppi
 ### [Shopping](./E-commerce/Shopping/README.md)
 A shopping system that handles details of minerals from the database, customers, shopping carts, inventory management, payment processing, and order management. 
 
-** Project goals:**
+## Project goals
+1. To develop CI CD pipelines.
+2. To develop the minerals Database.
+3. To develop the E-commerce website.
+
+## Table of contents 
+1. [Features](#Features)
+2. [License](./License)
+See the License file [here](./License).
+
