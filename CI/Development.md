@@ -28,7 +28,13 @@
 ### Feature 1: Integration with version control system.
 
 **Description:**
-Consistent Branching Strategy, CI pipeline efficiency, CI pipeline trigger, access control and permissions, commit hygiene and automation, CI configuration management, code reviews, artifact management, notifications and reporting, handling failed builds, compliance and security, backup and recovery
+Areas include consistent Branching Strategy, CI pipeline efficiency, CI pipeline trigger, access control and permissions, commit hygiene and automation, CI configuration management, code reviews, artifact management, notifications and reporting, handling failed builds, compliance and security, backup and recovery, and Documentation. 
+
+**User stories:**
+- **User Story 1**: As a developer, I want to have a clear and consistent branching strategy (e.g. GitHub Flow) so as to ensure that the CI pipeline knows which branches to monitor, build, and deploy.
+- **User story 2**: As a developer, I want to ensure the CI system can handle builds and tests efficiently across multiple projects within the same repository because of using a monorepo.
+- **User story 3**: As a developer, I want a decision about when to trigger the CI pipeline e.g push and pull request triggers.
+- **User story 4**: As a developer, I want to 
 
 **Acceptance Criteria:**
 - [ ] Criterion 1: The 
