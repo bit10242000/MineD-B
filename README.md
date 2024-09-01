@@ -17,7 +17,7 @@ A shopping system that handles details of minerals from the database, customers,
 
 ## Table of contents 
 1. [Features](#Features)
-2. [License](./License)
+2. [License](./LICENSE)
 
-See the License file [here](./License).
+See the License file [here](./LICENSE).
 
