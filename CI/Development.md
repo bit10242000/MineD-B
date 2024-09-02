@@ -11,7 +11,7 @@
 2. : developer
 
 ### Features list 
-1. [CI Integration with version control system.](#feature-1-:-ci-pipeline-integration-with-version control-system.)
+1. [CI Integration with version control system.](#feature-1-ci-pipeline-integration-with-version control-system)
 
    When changes are pushed to the repository, the CI pipeline is triggered.
 2. Automated testing.
