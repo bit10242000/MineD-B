@@ -12,7 +12,7 @@ A shopping system that handles details of minerals from the database, customers,
 
 ## Project goals
 1. To increase commerce in minerals by 30%.
-2. To achieve a 100% market share of the minerals trade industry.
+2. To have a 100% market share of the minerals trade industry.
 
 ## Table of contents 
 1. [Features](#Features)
