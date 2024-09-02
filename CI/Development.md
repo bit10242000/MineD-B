@@ -116,6 +116,13 @@ static analysis tools, fail fast strategy, automatic rollbacks, and testing stra
 
 **Technology Stack:**
 - 
+**Constraints:**
+- 
+**Risks:**
+- 
+
+## Additional Notes
+-
 
 
 
