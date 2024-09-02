@@ -90,3 +90,8 @@ Areas include consistent Branching Strategy, CI pipeline efficiency, CI pipeline
 
 
 
+### Feature 2: Automated testing 
+
+**Description:** 
+Areas include a balance between Unit, Integration, and End-to-End (E2E) Tests, critical path testing, avoiding flaky tests, consistent test environments, test execution time, selective testing, fast feedback loops, clear reporting, managing test data, handling large test suites, secure test data, dependency management, regular review, automation of test management, code coverage tools, 
+static analysis tools, fail fast strategy, automatic rollbacks, and testing strategies documentation.
